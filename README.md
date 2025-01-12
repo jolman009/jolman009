@@ -8,3 +8,4 @@
 jolman009/jolman009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![roadmap.sh](https://roadmap.sh/card/tall/67837edb70129741a8346318?variant=dark)](https://roadmap.sh)
